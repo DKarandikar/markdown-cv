@@ -1,87 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Karandikar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Karandikar
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daniel.karandikar@zoho.com">daniel.karandikar@zoho.com</a> | <a href="https://github.com/DKarandikar">Github DKarandikar</a> 
 </div>
 
+## Skills and Proficiencies
+- Extensive experience with Python, particularly asyncio and aiohttp
+- Systems level architecture of a cloud solution with multiple services
+- Writing and using both customer facing and internal Rest APIs
+- Frontend development using Typescript and React
+- Full stack development with C# and Microsoft COM addin development
+- Network level tools such as Nginx, OpenResty, Apache
+- Comfortable with the Elastic Stack including ElasticSearch, Kibana, Logstash and Beats
+- Database design and management with PostgreSQL, MySQL and SQLite
+- Deployment tools such as Salt, and managing CI pipelines using Jenkins
+- Extensive familiarity with Microsoft Graph APIs, Microsoft Teams apis and bots, and Google calendar apis
 
-## Currently
+## Employment History
 
-Standing on the shoulders of giants
+`Oct 2018 - Now:` Software Developer at StarLeaf
+- Developed and managed the build and release of third party scheduling integrations
+- Full stack development, primarily in Python, Typescript (React) and C#
+- Took a single server solution and developed this into a multi-server, multi-version, redundant cloud solution
+- Comfortable managing a project entirely through the development cycle including architectural planning, development, release and handling support cases - and working with different teams throughout
 
-### Specialized in
+`Aug 2017:` Work experience at Borwell
+- Work experience in pen-testing, network security and 'ethical hacking' with Kali Linux and Java
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`July 2017:` Internship at Minster Logistics
+- Month long internship developing a solution for handsets to aid picking products in warehouses
+- Worked with C# MVC and Entity Framework
+- Developed a working prototype which was well received by the management team at the end of the four weeks
 
 ## Education
+`2017 - 2018:` Keble College, University of Oxford 
+- Masters in Computer Science, MSc
+- Dissertation: "Respectful IoT Devices - Privacy Analysis"
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013 - 2017:` Balliol College, University of Oxford 
+- First Class Masters in Physics and Philosophy, MPhysPhil
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006 - 2013:` King Edward VI Aston Grammar School
+- 4 A*s at A-Level and 2 As including an EPQ
+- 7 A*s and 3 As at GCSE
 
-- Sizar
+### Scholarships
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2017:` Keble College, James Martin Graduate Scholarship
 
-- Fellow
+`2017:` Udacity, Google Developer Challenge Scholarship
 
+`2015:` Balliol College, Prosser Scholer
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2014:` Balliol College, Prosser Exhibitioner
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__IoT Refine: Making Smart Home Devices Accountable for Their Data Harvesting Practices__
 
-### Journals
+_Max Van Kleek‚ William Seymour‚ Reuben Binns‚ Jun Zhao‚ Daniel Karandikar and Nigel Shadbolt_
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+In Living in the _Internet of Things: Cybersecurity of the IoT Conference_. 2019.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+<a href="https://www.cs.ox.ac.uk/publications/publication12709-abstract.html">Details</a> 
 
 
 <!-- ### Footer
