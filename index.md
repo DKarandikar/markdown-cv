@@ -26,7 +26,7 @@ title: Daniel Karandikar's CV
 - Developed and managed the build and release of third party scheduling integrations
 - Full stack development, primarily in Python, Typescript (React) and C#
 - Took a single server solution and developed this into a multi-server, multi-version, redundant cloud solution
-- Comfortable managing a project entirely through the development cycle including architectural planning, development, release and handling support cases - and working with different teams throughout
+- Managed projects entirely through the development cycle including architectural planning, development, release and handling support cases - and working with different teams throughout
 
 `Aug 2017:` Work experience at Borwell
 - Work experience in pen-testing, network security and 'ethical hacking' with Kali Linux and Java
@@ -54,7 +54,7 @@ title: Daniel Karandikar's CV
 
 `2017:` Udacity, Google Developer Challenge Scholarship
 
-`2015:` Balliol College, Prosser Scholer
+`2015:` Balliol College, Prosser Scholar
 
 `2014:` Balliol College, Prosser Exhibitioner
 
